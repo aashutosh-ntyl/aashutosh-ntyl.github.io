@@ -130,7 +130,7 @@ li a {
 {
 	 .hideText
 	{
-		display:block;
+		display: none;
 	}
   	 .headname
 	{
