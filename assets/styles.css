@@ -12,6 +12,10 @@ section
 	height:41vw;
 }
 
+.imagesetsocial
+{
+	overflow: hidden;
+}
 .headname
 {
 	position:relative;
